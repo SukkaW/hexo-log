@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^5.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
